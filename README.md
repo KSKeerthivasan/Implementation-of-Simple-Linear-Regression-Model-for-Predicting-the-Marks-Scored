@@ -68,6 +68,11 @@ print("RMSE= ",rmse)
 ## Output:
 ![image](https://github.com/user-attachments/assets/360d5a23-de4e-4eca-b50f-fdb6a2f27d79)
 ![image (1)](https://github.com/user-attachments/assets/c423b8fe-35d6-41b0-8a08-7137e59c0bbc)
+```
+MSE =  4.691397441397446
+MAE =  4.691397441397446
+RMSE=  2.165963397981934
+```
 
 
 ## Result:
